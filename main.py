@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # --- PASTE YOUR FORM'S EMBED URL HERE ---
 # In Google Forms, click Send > select the "<>" (Embed HTML) tab > copy the URL from the 'src' attribute.
-FORM_EMBED_URL = "https://docs.google.com/forms/d/e/YOUR_UNIQUE_FORM_ID/viewform?embedded=true"
+FORM_EMBED_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeSvvYX1ImUAZTC-rcKwZTLuOcklBLReKmYj18RQZVMiuvDwQ/viewform?embedded=true"
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
